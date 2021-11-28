@@ -12,6 +12,7 @@ public class Demo {
 			rev = rev + charAt;
 		}
 		System.out.println(rev);
+		System.out.println(rev);
 	}
 
 }
